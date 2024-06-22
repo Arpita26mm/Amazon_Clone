@@ -9,7 +9,7 @@
 This is the User interface of Amazon.in cloned using HTML and CSS .
 
 
-## 🛠️ Techstack
+## 🛠️ Technology used
 - HTML
 - CSS
 
